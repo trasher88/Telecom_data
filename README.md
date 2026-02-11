@@ -1,8 +1,13 @@
 # Определение перспективного тарифа для телеком-компании
 
 ## Стек:
-Python, Pandas, Numpy, Matplotlib/Seaborn, SciPy, Statsmodels
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green?logo=pandas&logoColor=orange)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-orange?logo=numpy&logoColor=yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-red?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-lightblue)
+![SciPy](https://img.shields.io/badge/SciPy-1.13-8CAAE6?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14-1C6E9C?logo=python&logoColor=white)
 
 ## Структура проекта:
 1. Изучение данных
