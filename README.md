@@ -1,4 +1,4 @@
-# Определение перспективного тарифа для телеком-компании
+# Исследуем перспективный тариф для телеком-компании
 
 ## Стек:
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow)
